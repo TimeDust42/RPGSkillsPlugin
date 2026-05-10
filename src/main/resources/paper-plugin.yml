@@ -1,0 +1,8 @@
+name: RPGSkillsPlugin
+version: '${version}'
+
+main: com.timedust.rpgskillsplugin.Main
+api-version: '1.21.1'
+load: POSTWORLD
+
+authors: [ TimeDust42 ]
